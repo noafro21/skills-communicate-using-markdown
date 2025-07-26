@@ -21,7 +21,11 @@ print (suma);
 let String = "Hola, estoy apendiendo a usar MarkDown!";
 console.log (String);
 ```
+# Agregando lista con markdown, iniciar el aprendizaje para el diseño de paginas web
 
+- [x] Iniciar el estudio de HTML
+- [ ] Iniciar el estudio de CSS
+- [ ] Continuar con JavaScript
 
 
 
